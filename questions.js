@@ -69,7 +69,7 @@ let questions = [
     },
     {
         numb: 7,
-        questions: "Jika hari ini adalah hari selasa, maka besok nya hari....",
+        questions: "Jika kemarin adalah hari selasa, maka besok nya hari....",
         answer: "B. Kamis",
         options: [
             "A. Rabu",
